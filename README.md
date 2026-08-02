@@ -95,21 +95,6 @@ Since mobile behavior was intentionally unspecified, the following UX decisions 
 │   └── tablet.jpgg
 └── README.md
 ```
-
-## Screenshots
-
-### Desktop
-
-![Desktop](assets/desktop.jpeg)
-
-### Mobile
-
-![Mobile](assets/mobile.png)
-
-### Tablet
-
-![Tablet](assets/tablet.png)
-
 ## Author
 
 **Omar Elshaarawy**
