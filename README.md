@@ -5,7 +5,7 @@ A responsive product landing page built as part of a front-end assessment for th
 ## Live Demo
 
 🔗 https://dev-fictional-university-theme.pantheonsite.io/northstone-trailhead/
-Just press on Continue as it works in sandbox
+Just press on Continue as it is workign in sandbox
 
 ## Overview
 
@@ -88,10 +88,10 @@ Since mobile behavior was intentionally unspecified, the following UX decisions 
 ├── assets/
 ├── custom.css
 ├── custom.js
-│   ├── images/
 ├── screenshots/
-│   ├── desktop.png
-│   └── mobile.png
+│   ├── desktop.jpeg
+|   ├── mobile.jpeg
+│   └── tablet.jpgg
 └── README.md
 ```
 
@@ -99,11 +99,15 @@ Since mobile behavior was intentionally unspecified, the following UX decisions 
 
 ### Desktop
 
-(Add desktop screenshot)
+![Desktop](assets/desktop.jpeg)
 
 ### Mobile
 
-(Add mobile screenshot)
+![Mobile](assets/mobile.png)
+
+### Tablet
+
+![Tablet](assets/tablet.png)
 
 ## Author
 
